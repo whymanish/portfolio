@@ -7,11 +7,8 @@ const Education = () => {
       <div  class="py-12">
   <div class="xl:container m-auto px-6 text-gray-600 md:px-12 xl:px-6">
     <div class="mb-12 space-y-2 text-center">
-      <h2 class="text-3xl font-bold text-gray-800 md:text-4xl dark:text-white">Sharing is Caring</h2>
-      <p class="lg:mx-auto lg:w-6/12 text-gray-600 dark:text-gray-300">
-        Quam hic dolore cumque voluptate rerum beatae et quae, tempore sunt, debitis dolorum officia
-        aliquid explicabo? Excepturi, voluptate?
-      </p>
+      <h2 class="text-3xl font-bold text-gray-800 md:text-4xl dark:text-white">Education</h2>
+     
     </div>
     <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
       <div class="group p-6 sm:p-8 rounded-3xl bg-white border border-gray-100 dark:shadow-none dark:border-gray-700 dark:bg-gray-800 bg-opacity-50 shadow-2xl shadow-gray-600/10">

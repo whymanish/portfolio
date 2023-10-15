@@ -8,6 +8,7 @@ import Contact from './Components/Contact';
 import WhatIDo from './Components/WhatIDo';
 import CheckResume from './Components/CheckResume';
 import Education from './Components/Education';
+import Projects from './Components/Projects';
 function App() {
   return (
     <>
@@ -16,6 +17,7 @@ function App() {
     <Social/>
     <WhatIDo/>
     <Education/>
+    <Projects/>
    
     </>
   );
